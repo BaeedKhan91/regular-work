@@ -44,14 +44,16 @@
 // shoppingList.push['snacks']
 // console.log(shoppingList);
 
-let multiply1 = Number(Math.ceil(Math.random() * 10))
-let multiply2 = Number(Math.ceil(Math.random() * 10))
-alert(`multiply ${multiply1} by ${multiply2}`);
-let answer = prompt('give your answer')
-let checking = multiply1 * multiply2
-if (checking == answer) {
-    alert(`correct answer ${multiply1} * ${multiply2} = ${checking}`)
-}
-else {
-    alert(`wrong answer ${multiply1} * ${multiply2} = ${checking}`)
-}
+//multiplying challenge
+
+// let multiply1 = Number(Math.ceil(Math.random() * 10))
+// let multiply2 = Number(Math.ceil(Math.random() * 10))
+// alert(`multiply ${multiply1} by ${multiply2}`);
+// let answer = prompt('give your answer')
+// let checking = multiply1 * multiply2
+// if (checking == answer) {
+//     alert(`correct answer ${multiply1} * ${multiply2} = ${checking}`)
+// }
+// else {
+//     alert(`wrong answer ${multiply1} * ${multiply2} = ${checking}`)
+// }
