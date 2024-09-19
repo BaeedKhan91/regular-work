@@ -26,9 +26,22 @@ body{
     text-align: center;
     font-size: 20px;
 }
+
 #output{
+    /* display: inline-block; */
     width: 150px;
     height: 20px;
     border: 1px solid black;
+    text-align: center;
 
+}
+#ac-btn{
+    height: 25px;
+    cursor: pointer;
+}
+.four{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
 }
